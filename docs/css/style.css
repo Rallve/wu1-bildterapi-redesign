@@ -3,6 +3,18 @@ body {
     margin: 0;
 }
 
-header  {
-    background-color: turquoise;
+header {
+    max-height: 100px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #c3e3d8;
+    border-bottom: 8px solid white;
+    align-items: flex-end;
+}
+
+p {
+    margin: 0;
 }
