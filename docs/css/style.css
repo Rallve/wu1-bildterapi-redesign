@@ -1,6 +1,7 @@
 body {
     background-color: blanchedalmond;
     margin: 0;
+    font-family: 'Fanwood Text', serif;
 }
 
 header {
@@ -15,6 +16,21 @@ header {
     align-items: flex-end;
 }
 
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60rem;
+}
+
 p {
     margin: 0;
+}
+
+h1 {
+    font-family: 'Alex Brush', cursive;
 }
