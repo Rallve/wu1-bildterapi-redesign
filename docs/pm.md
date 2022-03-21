@@ -23,6 +23,3 @@ Det fanns inte riktigt något som gick dåligt. Jag hade lite problem med att g�
 ## Sammanfattning
 
 Det största problemet med min sida är helt enkelt att jag inte hann klart pga min operation. Eftersom att jag inte har gjort så mycket finns det heller inte så mycket att skriva och kommentera om. Jag hade gärna blivit klar med sidan så att jag kan lämna in något som jag är nöjd med eller som jag har lärt mig saker från men tyvärr blir det inte så. Förhoppningsvis får jag fler tillfällen att visa mina kunskaper.
-
-Figma länk:
-https://www.figma.com/file/uxnIGExhu1M8aG2T4H7BWI/bildterapihuset-design-desktop?node-id=0%3A1
